@@ -82,7 +82,8 @@ class TextScramble {
 
 const phrases = [
   'ras',
-  'reset a style'
+  'reset a style',
+  'RAS est un collectif dans lequel Artistes et Designers travaillent ensemble de leurs propre initiative, sous leur propre direction vers des objectifs communs. RAS propose du consulting en graphisme, web design, stylisme, direction artistique, rédactionnelle, photo, vidéo, son, illustration.'
 ]
 
 const el = document.querySelector('.text')
